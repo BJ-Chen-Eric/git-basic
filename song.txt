@@ -2,6 +2,3 @@ chubby tina
 chubbbby tina
 chubby gooey 
 feature trying
-
-new non conflict part
-change from feature
